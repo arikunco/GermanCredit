@@ -17,3 +17,5 @@ It is almost impossible to understand the original dataset due to its complicate
 * Duration (numeric, in month)
 * Purpose(text: car, furniture/equipment, radio/TV, domestic appliances, repairs, education, business, vacation/others
 * Risk (Value target - Good or Bad Risk)
+
+The original dataset can be found [here at UCI website](https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29). 
